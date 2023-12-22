@@ -16,4 +16,4 @@
 - 保存到系统相册
 
 ### 效果展示
-![1](static\readme_img\1.png)
+![1](https://github.com/rl-Agent/uniapp-drawing-board/blob/main/static/readme_img/1.png)
