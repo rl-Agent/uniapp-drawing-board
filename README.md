@@ -1,4 +1,4 @@
-# uniapp-drawing-board uniapp小程序画板
+#  uniapp小程序画板
 
 ### 安装npm包
 
